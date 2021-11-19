@@ -15,4 +15,4 @@ We will web-scrape the past 5 years of data from Yahoo finance, visualize the tr
 
 ## Consideration of possible improvement
 
-The correlation plots display that the four companies's stock prices are highly correlated, supported by the fact that the NASDAQ companies have grown at a very fast pace in recent years. One company's downside effect can impact other three companies' risk exposure, so we can re-calculate VaR including this factor, possibly increasing the VaR (High loss severity).
+The correlation plots display that the four companies's stock prices are highly correlated, supported by the fact that the NASDAQ companies have grown at a very fast pace in recent years. One company's downside effect can impact other three companies' risk exposure, so we can re-calculate VaR including this factor, possibly increasing the VaR (high loss severity).
